@@ -1,3 +1,7 @@
 theme: minima
 title: "Ditru – Cybersecurity"
 description: "My route to learn Cybersecurity"
+
+header_pages:
+  - about.md
+  - posts.md
