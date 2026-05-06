@@ -6,8 +6,8 @@ permalink: /Resume/
 
 [← Home](/)
 
-Oskar
-Aspiring Cybersecurity Specialist
+Oskar <br>
+Aspiring Cybersecurity Specialist <br>
 Łódź, Poland  |  kontakt.ditru@gmail.com | [github.com/Ditrstein](https://github.com/Ditrstein)
 
 ---
