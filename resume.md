@@ -8,62 +8,56 @@ permalink: /Resume/
 
 Oskar
 Aspiring Cybersecurity Specialist
-Łódź, Poland | kontakt.ditru@gmail.com 
+Łódź, Poland  |  kontakt.ditru@gmail.com | [github.com/Ditrstein](https://github.com/Ditrstein)
 
-About Me:
-- Student on TEB Edukacja Łódź, Cybersecurity enthusiast
-- Interested in: Pentesting, RedTeaming, BugBounty
-- Looking for: New paths towards cybersecurity expierience such as internship
+---
 
-17-year-old high school student passionate about offensive security and CTF competitions. 
-Currently focused on web exploitation and network security through hands-on practice on 
-TryHackMe, HackTheBox and OverTheWire. Looking for opportunities to learn from professionals and 
-contribute to open-source security tools. I am also self-sufficient I can work by myself even with complex problems.
+## About Me
 
-Education:
+17-year-old IT student passionate about offensive security and web exploitation. Currently building hands-on experience through TryHackMe, HackTheBox, OverTheWire, and PortSwigger Web Security Academy. Particularly interested in penetration testing, red teaming, and bug bounty hunting. Looking for an internship or mentorship opportunity to grow alongside cybersecurity professionals.
+
+---
+
+## Education
 TEB Edukacja  —  Łódź, Poland
-IT technician + E-Sport  |  Sept 2021 – Present
+IT Technician + E-Sport  | Sept 2022 – Present (Expected 2027)
+Final IT exams: 
+INF 02 - Passed (86% overall)
+INF 03 - planned on 2026
 
-Technical Skills:
-Programming Languages:
+---
+
+## Technical skills
+Programming Languages
 JavaScript, Bash
-
-Security Tools:
+Security Tools
 Burp Suite, Nmap
+Operating Systems
+Kali Linux, Ubuntu, openSUSE, Windows
+Areas of Focus
+Web Application Security, Linux Fundamentals
 
-Operating Systems:
-np. Kali Linux, Ubuntu, Windows, OpenSuse
+---
 
-Concepts & Areas:
-Web Application Security
-
-Languages:
+## Languages
 Polish — Native
 English — B2 (self-assessed)
 
-CTF & Hands-on Practice:
+---
 
-TryHackMe  —  Rank: Top 85%  |  Rooms completed: 04
+## Hands-on Practice
+Self-directed learning through:
 
-Completed learning paths: NULL
+---
 
-HackTheBox  —  Rank: NULL
+- TryHackMe — actively working through introductory rooms
+- HackTheBox Academy — completed Linux Fundamentals module
+- OverTheWire — wargames (Bandit)
+- PortSwigger Web Security Academy — web exploitation labs
 
-Machines pwned: XX (User + Root)
-Completed learning paths: Linux Fundamentals
+---
 
-CTF Competitions:
-NULL
+## Interests
+Bug bounty hunting, CTF challenges, JavaScript reverse engineering, hands-on technical projects.
 
-Certifications & Courses:
-NULL
-
-
-Achievements & Activities:
-Self educating on Kali Linux, PortSwigger, HTB Academy, OverTheWire
-
-
-Interests:
-Bug bounty hunting, CTFs, Websites JavaScript logic, Activites that requiers manual skills
-
-<sub>Last updated: 06.05.2026</sub>
+<sub>Last updated: May 2026</sub>
